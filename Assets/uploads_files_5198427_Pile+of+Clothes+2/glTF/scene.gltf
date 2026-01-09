@@ -1,0 +1,510 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        5.882688522338867,
+        6.593247413635254,
+        4.842401027679443
+      ],
+      "min": [
+        -5.882688522338867,
+        -6.593247890472412,
+        -4.842401504516602
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 23232,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        0.9996107220649719,
+        0.9998713731765747,
+        0.9999788999557495
+      ],
+      "min": [
+        -0.9983858466148376,
+        -0.9992431402206421,
+        -0.9999973177909851
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        0.9999197721481323,
+        0.9999692440032959,
+        0.9916340112686157,
+        1.0
+      ],
+      "min": [
+        -0.994725227355957,
+        -0.9999300837516785,
+        -0.9999796748161316,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        0.9908639788627625,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15488,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        0.9908639788627625,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 30976,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        0.9908639788627625,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7200,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46464,
+      "componentType": 5126,
+      "count": 1830,
+      "max": [
+        5.9535322189331055,
+        6.5671186447143555,
+        5.705432415008545
+      ],
+      "min": [
+        -5.9535322189331055,
+        -6.5671186447143555,
+        -5.705432891845703
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 68424,
+      "componentType": 5126,
+      "count": 1830,
+      "max": [
+        0.9997739791870117,
+        0.999000608921051,
+        0.9999932050704956
+      ],
+      "min": [
+        -0.9991434216499329,
+        -0.99998939037323,
+        -0.9999713897705078
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 30976,
+      "componentType": 5126,
+      "count": 1830,
+      "max": [
+        0.9999834895133972,
+        0.9579993486404419,
+        0.9999979734420776,
+        1.0
+      ],
+      "min": [
+        -0.9923951625823975,
+        -0.9780871272087097,
+        -0.999820351600647,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 46464,
+      "componentType": 5126,
+      "count": 1830,
+      "max": [
+        1.0,
+        0.9906820058822632
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 61104,
+      "componentType": 5126,
+      "count": 1830,
+      "max": [
+        1.0,
+        0.9906820058822632
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 75744,
+      "componentType": 5126,
+      "count": 1830,
+      "max": [
+        1.0,
+        0.9906820058822632
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 28800,
+      "componentType": 5125,
+      "count": 7200,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "plaggy (https://sketchfab.com/plaggy)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/pile-of-clothes-2-b22a278c882d4dd398bd3af3635ed804",
+      "title": "Pile of Clothes 2"
+    },
+    "generator": "Sketchfab-16.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 57600,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 90384,
+      "byteOffset": 57600,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 90384,
+      "byteOffset": 147984,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 60256,
+      "byteOffset": 238368,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 298624,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/PileofClothes3_baseColor.png"
+    },
+    {
+      "uri": "textures/PileofClothes3_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/PileofClothes3_normal.png"
+    },
+    {
+      "uri": "textures/PileofClothes4_baseColor.png"
+    },
+    {
+      "uri": "textures/PileofClothes4_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/PileofClothes4_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "PileofClothes3",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "PileofClothes4",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "PileofClothes3_PileofClothes3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "PileofClothes4_PileofClothes4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11,
+            "TEXCOORD_2": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.02539999969303608,
+        0.0,
+        0.0,
+        -0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "576201097cb34868aec81c548dca2d77.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        -7.35013484954834,
+        -0.41211938858032227,
+        -0.023680826649069786,
+        1.0
+      ],
+      "name": "PileofClothes3"
+    },
+    {
+      "mesh": 0,
+      "name": "PileofClothes3_PileofClothes3_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        7.352662086486816,
+        0.4428105354309082,
+        0.017549879848957062,
+        1.0
+      ],
+      "name": "PileofClothes4"
+    },
+    {
+      "mesh": 1,
+      "name": "PileofClothes4_PileofClothes4_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

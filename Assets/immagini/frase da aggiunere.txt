@@ -1,0 +1,3 @@
+FindObjectOfType<PuzzleManager>().CompleteMinigame(0);// metti il numero del minigioco per ogni coso
+            puzzlePanel.SetActive(true);
+public GameObject puzzlePanel; 

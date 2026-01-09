@@ -1,0 +1,11 @@
+Model Information:
+* title:	Broken Pocket Watch
+* source:	https://sketchfab.com/3d-models/broken-pocket-watch-c79bc27d569a40da88af5a15b293ae1a
+* author:	HarlWise (https://sketchfab.com/HarlWise)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Broken Pocket Watch" (https://sketchfab.com/3d-models/broken-pocket-watch-c79bc27d569a40da88af5a15b293ae1a) by HarlWise (https://sketchfab.com/HarlWise) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

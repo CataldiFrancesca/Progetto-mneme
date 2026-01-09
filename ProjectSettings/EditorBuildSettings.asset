@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/logo.unity
+    guid: 4aadf86496992984694f33d7d42c8a0f
+  - enabled: 1
+    path: "Assets/Scenes/Men\xF9 di avvio.unity"
+    guid: fd976168106ba58459dff93966b21b67
+  - enabled: 1
+    path: Assets/Scenes/istruzioni.unity
+    guid: 79600dfc1c098cf409dd51a7445146f6
+  - enabled: 1
+    path: Assets/Scenes/IntroIniziale.unity
+    guid: 7c11589d845963241b72bac047049971
+  - enabled: 1
+    path: Assets/Scenes/camera da letto.unity
+    guid: 3d11ffe77186379408aa514d29b84ddf
+  - enabled: 1
+    path: Assets/Scenes/Cucina.unity
+    guid: fd162acd8af2e4043b525ec6f48ed2ab
+  - enabled: 1
+    path: Assets/Scenes/salone.unity
+    guid: 216ae65b9eba32f48b0f1608a9a95d1f
+  - enabled: 1
+    path: Assets/Scenes/lab.unity
+    guid: 4980e8369842c3f479ce342d1f6eddc7
+  - enabled: 1
+    path: Assets/Scenes/Fine.unity
+    guid: 0453e0eeca6b08e48853d6c20e6e3e47
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

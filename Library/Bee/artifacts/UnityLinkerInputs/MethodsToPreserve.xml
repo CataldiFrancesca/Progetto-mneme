@@ -1,0 +1,153 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CamiceGame">
+			<method name="VerificaCombinazione"/>
+		</type>
+		<type fullname="CodeChecker">
+			<method name="CheckCode"/>
+			<method name="OnEsciClicked"/>
+			<method name="ResetAll"/>
+		</type>
+		<type fullname="DigitSlot">
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Decrement"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+			<method name="Increment"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="ChiudiGioco"/>
+			<method name="OnClickVerifica"/>
+		</type>
+		<type fullname="GameManagerGuanto">
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="GameManagerLiquidiUI">
+			<method name="EsciMinigioco"/>
+			<method name="ResetGioco"/>
+		</type>
+		<type fullname="Giornale">
+			<method name="ControllaFrase"/>
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="HangmanGame">
+			<method name="CheckLetter"/>
+			<method name="ChiudiMinigioco"/>
+			<method name="ResetGame"/>
+		</type>
+		<type fullname="MainMenuManager">
+			<method name="MostraConfermaUscita"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+		</type>
+		<type fullname="MicroscopioGame">
+			<method name="ControllaFrase"/>
+			<method name="MostraVistaVetrino"/>
+			<method name="MostraVistaVetrino"/>
+			<method name="MostraVistaVetrino"/>
+			<method name="MostraVistaVetrino"/>
+			<method name="MostraVistaVetrino"/>
+			<method name="MostraVistaVetrino"/>
+		</type>
+		<type fullname="MinigameManager">
+			<method name="ConfermaFrase"/>
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="MinigiocoFrigoManager">
+			<method name="ControllaRisposta"/>
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="MinigiocoPorta">
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="PauseMenuManager">
+			<method name="ChiudiMenu"/>
+			<method name="ChiudiMenu"/>
+			<method name="ChiudiMenu"/>
+			<method name="ChiudiMenu"/>
+			<method name="EsciGioco"/>
+			<method name="EsciGioco"/>
+			<method name="EsciGioco"/>
+			<method name="EsciGioco"/>
+			<method name="MostraConfermaUscita"/>
+			<method name="MostraConfermaUscita"/>
+			<method name="MostraConfermaUscita"/>
+			<method name="MostraConfermaUscita"/>
+			<method name="MostraOpzioni"/>
+			<method name="MostraOpzioni"/>
+			<method name="MostraOpzioni"/>
+			<method name="MostraOpzioni"/>
+			<method name="SaveGame"/>
+			<method name="SaveGame"/>
+			<method name="SaveGame"/>
+			<method name="SaveGame"/>
+			<method name="SaveGameQuit"/>
+			<method name="SaveGameQuit"/>
+			<method name="SaveGameQuit"/>
+			<method name="SaveGameQuit"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+			<method name="TornaIndietro"/>
+		</type>
+		<type fullname="PhoneUnlocker">
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="PhraseChecker">
+			<method name="EsciMinigioco"/>
+		</type>
+		<type fullname="PopupManager">
+			<method name="EsciMinigioco"/>
+			<method name="EsciMinigioco"/>
+			<method name="EsciMinigioco"/>
+			<method name="EsciMinigioco"/>
+			<method name="TogglePopup"/>
+			<method name="TogglePopup"/>
+			<method name="TogglePopup"/>
+			<method name="TogglePopup"/>
+		</type>
+		<type fullname="ProvettaUI">
+			<method name="Seleziona"/>
+			<method name="Seleziona"/>
+			<method name="Seleziona"/>
+			<method name="Seleziona"/>
+			<method name="Seleziona"/>
+			<method name="Seleziona"/>
+		</type>
+		<type fullname="PuzzleManager">
+			<method name="GoToNextCameraScene"/>
+			<method name="GoToNextCameraScene"/>
+		</type>
+		<type fullname="PuzzleManager2">
+			<method name="GoToNextCameraScene"/>
+			<method name="GoToNextCameraScene"/>
+		</type>
+		<type fullname="Seagull.Interior_01.CeilingLight">
+			<method name="turnOff"/>
+			<method name="turnOn"/>
+		</type>
+		<type fullname="TrovaLeDifferenze">
+			<method name="ClickDifferenza"/>
+			<method name="ClickDifferenza"/>
+			<method name="ClickDifferenza"/>
+			<method name="ClickDifferenza"/>
+			<method name="ClickDifferenza"/>
+			<method name="ClickDifferenza"/>
+		</type>
+	</assembly>
+</linker>
